@@ -1,0 +1,10 @@
+tensorflow>=2.15
+opencv-python-headless
+imagehash
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+Pillow
